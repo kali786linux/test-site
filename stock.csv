@@ -1,0 +1,25 @@
+Stock Code,Description,Department,Selling Price,Qty On Hand,Location
+HW-101,Hammer Claw 450g Fibreglass Handle,Hand Tools,149.95,24,A3
+HW-102,Screwdriver Set 12 Piece,Hand Tools,189.00,11,A3
+HW-103,Adjustable Spanner 250mm,Hand Tools,119.50,4,A3
+HW-104,Tape Measure 5m,Hand Tools,69.95,40,A2
+HW-201,Cordless Drill 18V with 2 Batteries,Power Tools,1299.00,6,B1
+HW-202,Angle Grinder 115mm 850W,Power Tools,649.00,9,B1
+HW-203,Jigsaw 600W Variable Speed,Power Tools,799.00,0,B1
+HW-301,Interior Wall Paint White 5L,Paint,329.00,32,C2
+HW-302,Exterior Wall Paint Cream 20L,Paint,1149.00,7,C2
+HW-303,Paint Brush Set 5 Piece,Paint,89.00,18,C3
+HW-304,Paint Roller 225mm with Tray,Paint,79.95,3,C3
+HW-401,PVC Pipe 40mm x 6m,Plumbing,215.00,15,D1
+HW-402,Mixer Tap Kitchen Chrome,Plumbing,459.00,5,D2
+HW-403,Teflon Tape 12mm x 10m,Plumbing,12.50,120,D1
+HW-501,LED Bulb 9W Warm White B22,Electrical,34.95,85,E1
+HW-502,"Extension Cord, 4-Way 5m",Electrical,169.00,13,E2
+HW-503,Twin and Earth Cable 1.5mm 100m,Electrical,1099.00,2,E3
+HW-601,"Wood Screws, Box of 200 (4 x 40mm)",Fasteners,59.00,50,F1
+HW-602,Masonry Nails 50mm 1kg,Fasteners,74.00,22,F1
+HW-603,Cable Ties 300mm Pack of 100,Fasteners,49.95,60,F2
+HW-701,Garden Hose 20m with Spray Gun,Garden,299.00,8,G1
+HW-702,Spade Long Handle,Garden,189.00,10,G2
+HW-801,Safety Gloves Leather Pair,Safety,45.00,70,H1
+HW-802,"Safety Goggles, Clear",Safety,39.00,1,H1

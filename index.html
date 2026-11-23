@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-ZA">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Amos Hardware Port Shepstone | Stock Lookup</title>
+<meta name="description" content="Check live prices, stock levels and aisle locations at Amos Hardware Port Shepstone.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <div class="wrap topbar">
+    <div class="brand">
+      <h1>AMOS <span>HARDWARE</span></h1>
+      <p>Port Shepstone &middot; Stock Lookup</p>
+    </div>
+    <a class="call" href="tel:+27838000808">Call 083 800 0808</a>
+  </div>
+</header>
+
+<div class="search-area">
+  <div class="wrap">
+    <div class="search-box">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.5 14h-.8l-.3-.3A6.5 6.5 0 1 0 14 15.5l.3.3v.8l5 5 1.5-1.5-5-5zm-6 0a4.5 4.5 0 1 1 0-9 4.5 4.5 0 0 1 0 9z"/></svg>
+      <input id="q" type="search" placeholder="Search by product name, category or SKU..." autocomplete="off" aria-label="Search products">
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="controls">
+    <div id="chips" class="chips"></div>
+    <label class="toggle"><input type="checkbox" id="instock"> In stock only</label>
+  </div>
+  <div class="meta">
+    <span id="count"></span>
+    <span id="updated"></span>
+  </div>
+  <div id="results" class="grid"></div>
+  <div id="status"></div>
+  <button id="more" class="more" hidden>Show more</button>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p><strong>Amos Hardware Port Shepstone</strong> &middot; Tel / WhatsApp: 083 800 0808</p>
+    <p>Stock levels and prices are updated regularly but may change during the day. Prices include VAT. "Reserve" sends us a WhatsApp message; your item is held once we confirm.</p>
+  </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.43/dist/flexsearch.bundle.min.js"></script>
+<script src="csv.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
